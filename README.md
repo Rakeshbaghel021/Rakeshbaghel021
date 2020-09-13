@@ -1,7 +1,7 @@
 ### Hola , I am [Rakesh Kumar Baghel](Rakeshbaghel021)! 👋
 
 
-Here are some ideas to get you started:
+-Learning Mern Stack
 
 
 - 📫 How to reach me: [Email - rkrkumar021@gmail.com](rkrkumar021@gmail.com) , [Twitter - rkrkumar021](https://twitter.com/rkrkumar021)
