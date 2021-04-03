@@ -15,3 +15,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshbaghel021&layout=compact)](https://github.com/Rakeshbaghel021/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rakeshbaghel021&&show_icons=true&title_color=#FDD9B9&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Rakeshbaghel021&theme=<THEME_NAME>" />
+
