@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am [Rakesh Kumar Baghel](Rakeshbaghel021)! <ing src="https://raw.githubusercontent.com/kaustubh2020/kaustubh2020/master/wave.gif"/>
+### I m [Rakesh Kumar Baghel](Rakeshbaghel021)! <ing src="https://raw.githubusercontent.com/kaustubh2020/kaustubh2020/master/wave.gif"/>
 
 
 
