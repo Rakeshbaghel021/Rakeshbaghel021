@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: [Email - rkrkumar021@gmail.com](rkrkumar021@gmail.com) , [Twitter - rkrkumar021](https://twitter.com/rkrkumar021)
 
-- ⚡ Fun fact: lots of stuffs!!!
+- ⚡ Fun fact:Internet Browsing && lots of stuffs!!!
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshbaghel021&layout=compact)](https://github.com/Rakeshbaghel021/github-readme-stats)
