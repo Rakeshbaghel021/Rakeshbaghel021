@@ -32,7 +32,7 @@ Currently, I am learning MERN Stack Web Development & working as an intern in Ed
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rakeshbaghel021&&show_icons=true&title_color=#FDD9B9&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=Rakeshbaghel021&hide=["issues"]&show_icons=true)
 
 
 
