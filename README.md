@@ -4,19 +4,19 @@
 
 
 
--Learning Mern Stack
-
-
-- 📫 How to reach me: [Email - rkrkumar021@gmail.com](rkrkumar021@gmail.com) , [Twitter - rkrkumar021](https://twitter.com/rkrkumar021)
-
-- ⚡ Fun fact:Internet Browsing && lots of @stuffs!!!
--->
 
 
 <h3 align="left">Let's Connect: 🚀</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rakesh-baghel-20a83a160/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishthekingboy" height="30" width="40" /></a>
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rakeshbaghel021)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-baghel-20a83a160/)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rkrkumar021)](https://twitter.com/rkrkumar021)
+[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rkrkumar021/)](https://medium.com/@rkrkumar021)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rkrkumar021@gmail.com)
+&nbsp;
 
 
 
