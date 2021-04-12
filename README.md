@@ -2,7 +2,12 @@
 
 ### I am [Rakesh Kumar Baghel](Rakeshbaghel021)! <ing src="https://raw.githubusercontent.com/kaustubh2020/kaustubh2020/master/wave.gif"/>
 
+### About Me ###
+----------------------------------------------------------------------------------------------------------------------------
+Currently, I am learning MERN Stack Web Development & working as an intern in Edunomics.
 
+
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
