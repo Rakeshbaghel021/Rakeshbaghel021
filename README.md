@@ -13,7 +13,7 @@ Currently, I am learning MERN Stack Web Development & working as a Full-stack de
 
 
 
-<h3 align="left">Let's Connect: 🚀</h3>
+<h3 align="left">Let's Connect: 🚀</h2>
 <p align="left">
 
 
