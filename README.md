@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-### I am [Rakesh Kumar Baghel](Rakeshbaghel021)! <ing src="https://raw.githubusercontent.com/kaustubh2020/kaustubh2020/master/wave.gif"/>
+### I am [Rakesh Baghel](Rakeshbaghel021)! <ing src="https://raw.githubusercontent.com/kaustubh2020/kaustubh2020/master/wave.gif"/>
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
