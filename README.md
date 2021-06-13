@@ -30,7 +30,7 @@ Currently, I am learning MERN Stack Web Development & working as a Full-stack de
 
 
 
-
+![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=Rakeshbaghel021&hide=["issues"]&show_icons=true)
 
 ### Profile Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/Rakeshbaghel021/count.svg)
