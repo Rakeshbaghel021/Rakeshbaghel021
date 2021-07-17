@@ -6,7 +6,7 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am learning MERN Stack Web Development & working as a Full-stack developer  at Edunomics.
+Currently, I am learning MERN Stack Web Development & working as a Full-stack developer at Edunomics.
 
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
