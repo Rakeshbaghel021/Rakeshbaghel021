@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-### I am [Rakesh Baghel](Rakeshbaghel021)! 
+### I am [Rakesh Baghel](Rakeshbaghel021) ! 
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
